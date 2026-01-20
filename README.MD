@@ -22,7 +22,7 @@ Uygulama ve sunucu loglarını tarayarak **Kişisel Verileri (PII - TC Kimlik, K
 * **Dil:** Python 3 (Native - Kütüphane gerektirmez)
 
 ## 🚀 Kurulum ve Kullanım
-```bash
+
 ### 1. Depoyu İndirin
 
 ```bash
