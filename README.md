@@ -22,9 +22,9 @@ Uygulama ve sunucu loglarını tarayarak **Kişisel Verileri (PII - TC Kimlik, K
 * **Dil:** Python 3 (Native - Kütüphane gerektirmez)
 
 ## 🚀 Kurulum ve Kullanım
-
-### 1. Depoyu İndirin
 ```bash
+### 1. Depoyu İndirin
+
 git clone [https://github.com/yusufiyilmaz/SecOps-LogSensitivityAnalyzer.git](https://github.com/yusufiyilmaz/SecOps-LogSensitivityAnalyzer.git)
 cd SecOps-LogSensitivityAnalyzer
 
@@ -37,4 +37,5 @@ python src/main.py --scan test.log
 Program çalıştırıldığında riskli verileri raporlar ve security_report.json dosyasına kaydeder.
 
 [KRİTİK] Satır 4: API Key / Token (Secret)
+
     └── Maskeleme: VERI_SILINDI_HASH
