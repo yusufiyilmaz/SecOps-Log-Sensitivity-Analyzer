@@ -1,0 +1,12 @@
+2026-01-20 Server started.
+[INFO] Kullanici girisi basarili: yusuf.yilmaz@istinye.edu.tr
+[WARN] Odeme hatasi. Kart No: 4543-1234-5678-0000 limit yetersiz.
+[DEBUG] DB Connection String (HATA!): postgres://user:Xy9#vK!2mPqL7z@localhost
+[INFO] TC Kimlik Dogrulandi: 12345678901
+System shutting down.
+
+
+[HATA] AWS Secret Key sızdı: wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+[DEBUG] Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ
+[INFO] Yapılandırma dosyası yüklendi. Password=CorrectHorseBatteryStaple (Güvenli)
+[KRİTİK] Root şifresi loglandı: gH#7x!9LmPq$2zR

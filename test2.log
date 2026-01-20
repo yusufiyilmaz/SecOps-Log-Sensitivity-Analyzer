@@ -1,0 +1,9 @@
+[INFO] Sunucu başlatıldı. 
+[INFO] Kullanıcı girişi başarılı. User: yusuf
+[HATA] Ödeme işlemi başarısız! Kredi Kartı: 4543-1111-2222-3333 (Limit Yetersiz)
+[DEBUG] DB_Connection string: mysql://admin:SüperGizliŞifre123!@localhost:3306
+[UYARI] Kullanıcı profili güncellendi. TC Kimlik: 12345678901
+[INFO] Email gönderildi: yusuf@istinye.edu.tr adresine.
+[KRİTİK] AWS API Key loglara düştü: AKIAIOSFODNN7EXAMPLE
+[DEBUG] Session Token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiLCJ
+[INFO] Bu satırda hiçbir riskli veri yoktur, sistem normal çalışıyor.
