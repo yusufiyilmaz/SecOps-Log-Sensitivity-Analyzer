@@ -2,7 +2,7 @@
 
 Bu proje, **İstinye Üniversitesi** SecOps müfredatı kapsamında geliştirilmiş bir **DLP (Veri Sızıntısı Önleme)** güvenlik aracıdır.
 
-**Geliştirici:** [Yusuf Yılmaz]
+**Geliştirici:** Yusuf Yılmaz
 **Ders:** Açık Kaynak İşletim Sistemleri
 
 ---
