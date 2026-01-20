@@ -29,13 +29,15 @@ Uygulama ve sunucu loglarını tarayarak **Kişisel Verileri (PII - TC Kimlik, K
 git clone [https://github.com/yusufiyilmaz/SecOps-Log-Sensitivity-Analyzer.git](https://github.com/yusufiyilmaz/SecOps-Log-Sensitivity-Analyzer.git)
 cd SecOps-Log-Sensitivity-Analyzer
 ```
-```
+
 ### 2. Taramayı Başlatın
+```
 Test dosyasını taramak için şu komutu kullanın:
 python src/main.py --scan test.log
 ```
-```
+
 ### 3. Örnek Çıktı
+```
 Program çalıştırıldığında riskli verileri raporlar ve analiz_raporu.json dosyasına kaydeder.
 [KRİTİK] Satır 4: API Key / Token (Secret)
     └── Maskeleme: VERI_SILINDI_HASH
