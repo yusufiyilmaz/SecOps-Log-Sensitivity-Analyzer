@@ -1,1 +1,12 @@
-https://placeholder-link.com
+------------------------------------------------------------------
+           PERPLEXITY AI - TEKNİK ARAŞTIRMA VE KAYNAKÇA
+------------------------------------------------------------------
+
+PROJE: Log Sensitivity Analyzer (DLP Audit Tool)
+KONU:  Kütüphane Seçimi, Güncel Regex Standartları ve Mimarisi
+MODEL: Perplexity Pro (Search Mode)
+
+-----------------------------------------------------------------
+SOHBET ERISIM LINKI:
+https://www.perplexity.ai/search/ornek-arama-linki-xHz.123
+-----------------------------------------------------------------
