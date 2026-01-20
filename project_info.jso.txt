@@ -1,0 +1,10 @@
+{
+  "project_name": "SecOps Log Sensitivity Analyzer",
+  "developer": "Yusuf Yılmaz",
+  "university": "İstinye Üniversitesi",
+  "department": "Bilişim Güvenliği Teknolojisi",
+  "course": "Açık Kaynak İşletim Sistemleri",
+  "term": "2025-2026 Spring",
+  "version": "1.0.0",
+  "description": "Log dosyalarındaki hassas verileri (PII, Credentials) tespit eden DLP ve Entropi analiz aracı."
+}
