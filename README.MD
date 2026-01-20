@@ -26,7 +26,7 @@ Uygulama ve sunucu loglarını tarayarak **Kişisel Verileri (PII - TC Kimlik, K
 ### 1. Depoyu İndirin
 
 ```bash
-git clone [https://github.com/yusufiyilmaz/SecOps-Log-Sensitivity-Analyzer.git](https://github.com/yusufiyilmaz/SecOps-Log-Sensitivity-Analyzer.git)
+git clone https://github.com/yusufiyilmaz/SecOps-Log-Sensitivity-Analyzer.git
 cd SecOps-Log-Sensitivity-Analyzer
 
 ### 2. Taramayı başlatın 
